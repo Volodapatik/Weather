@@ -24,7 +24,7 @@ jobs:
       run: chmod +x gradlew
 
     - name: Build with Gradle
-      run: ./gradlew assembleDebug --no-daemon
+      run: ./gradlew assembleDebug --no-daemon -Dorg.gradle.jvmargs="-Xmx1024m" -Dorg.gradle.parallel=false
 
     - name: Upload APK to artifacts
       uses: actions/upload-artifact@v4

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather AI</string>
+    <string name="weather_description">Точний прогноз погоди з ШІ-аналізом</string>
+    <string name="search_city">Пошук міста</string>
+    <string name="refresh">Оновити</string>
+    <string name="temperature">Температура</string>
+    <string name="humidity">Вологість</string>
+    <string name="wind_speed">Швидкість вітру</string>
+    <string name="pressure">Тиск</string>
+    <string name="recommendations">Рекомендації</string>
+    <string name="ai_analysis">ШІ Аналіз</string>
+    <string name="forecast">Прогноз на 5 днів</string>
+    <string name="error">Помилка</string>
+    <string name="loading">Завантаження...</string>
+    <string name="no_data">Немає даних</string>
+</resources>

@@ -1,0 +1,87 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# Log/OS Files
+*.log
+.DS_Store
+
+# Android Studio generated files and folders
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Android Studio/IntelliJ
+out/
+.idea_modules/
+*.iml
+*.iws
+*.ipr
+
+# Keystore files
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+GoogleService-Info.plist
+
+# Freeline
+freeline.py
+freeline/
+freeline_files/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Version control
+.svn/
+
+# Misc
+*.swp
+*.swo
+*~
+.vscode/
+.env
+.env.local
+
+# Kotlin
+*.kt.bak
+.kotlin/
+
+# Test coverage
+coverage/
+*.ec
+*.exec
+
+# IDE
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
